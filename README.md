@@ -9,7 +9,7 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 Remember, it's self-paced so feel free to take a break! ☕️
 ## Pruebas de edición y commit
 ## Pruebas de PR automático
-
+## Bendito PR no funciona automáticamente
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/t-vrojasc1/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
 
 ---
